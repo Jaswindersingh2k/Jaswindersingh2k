@@ -134,8 +134,9 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jaswindersingh2k&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaswindersingh2k&theme=dracula&no-frame=true&margin-w=4" alt="GitHub Trophies" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling%21;Star+some+repos+if+you+liked+them+%E2%9C%A8;Keep+Learning%2C+Keep+Contributing%21" alt="Typing Outro" />
