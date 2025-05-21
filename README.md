@@ -2,20 +2,10 @@
 
 <!--
 **Jaswindersingh2k/Jaswindersingh2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=30&fontColor=000000" />
 </p>
 
 <h1 align="center">Hey there 👋, I'm Jaswinder Singh!</h1>
@@ -34,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"> 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jaswinder+Singh+%F0%9F%91%8B;Professor+%7C+Researcher+%7C+Open+Source+Contributor;Creating+Impactful+Educational+Content+%E2%9C%A8;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=0e75b6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hey+there!+I'm+Jaswinder+Singh+%F0%9F%91%8B;Professor+%7C+Researcher+%7C+Open+Source+Contributor;Creating+Impactful+Educational+Content+%E2%9C%A8;" alt="Typing SVG" />
 </p>
 
 ---
@@ -96,7 +86,7 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 ### 📊 GitHub Stats 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswindersingh2k&show_icons=true&theme=radical" alt="Jaswinder Singh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaswindersingh2k&show_icons=true&theme=default" alt="Jaswinder Singh's GitHub stats" />
 </p>
 
 ---
@@ -104,7 +94,7 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 ### 🗺 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswindersingh2k&theme=dracula" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswindersingh2k&theme=github-light" />
 </p>
 
 ---
@@ -144,27 +134,13 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-2k&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Jaswindersingh2k&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling%21;Star+some+repos+if+you+liked+them+%E2%9C%A8;Keep+Learning%2C+Keep+Contributing%21" alt="Typing Outro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0e75b6&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling%21;Star+some+repos+if+you+liked+them+%E2%9C%A8;Keep+Learning%2C+Keep+Contributing%21" alt="Typing Outro" />
 </p>
-
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer&fontColor=000000" />
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
