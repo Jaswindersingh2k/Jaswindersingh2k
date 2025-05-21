@@ -101,6 +101,13 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 
 ---
 
+### 🗺 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jaswindersingh2k&theme=dracula" />
+</p>
+
+---
 
 
 
