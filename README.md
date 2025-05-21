@@ -141,6 +141,21 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 
 ---
 
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Arsh-2k&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Thanks+for+scrolling%21;Star+some+repos+if+you+liked+them+%E2%9C%A8;Keep+Learning%2C+Keep+Contributing%21" alt="Typing Outro" />
+</p>
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=150&section=footer" />
+</p>
+
 
 
 
