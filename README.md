@@ -109,6 +109,42 @@ A growing toolbox of technologies I’ve explored and continue to build with as 
 
 ---
 
+### 💬 Final Note 
+
+<p align="center">
+  Thank you for taking the time to explore my work. <br>
+  Whether you're a student, fellow educator, researcher, or curious mind — you're most welcome here. <br>
+  <strong>Let’s collaborate, contribute, and continue the journey of lifelong learning. 🚀</strong>
+</p>
+
+---
+
+### 🤝 Connect with Me and Explore My Work 
+
+<p align="left">
+  <a href="mailto:jaswinder_singh_2k@rediffmail.com" target="_blank"> 
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  
+  <a href="https://github.com/Jaswindersingh2k" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  
+  <a href="http://www.jaswindersinghcse.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
+  </a>
+  
+  <a href="https://scholar.google.co.in/citations?user=JxU6hWkAAAAJ&hl=en" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+</p>
+
+---
+
+
+
+
+
 
 
 
